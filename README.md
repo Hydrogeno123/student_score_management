@@ -14,6 +14,6 @@
 分数段；60-79 一个分数段；60 以下一个分数段。
 
 使用方法:dosbox 
-masm studentcodemanage.asm
-link studentcodemanage.obj
-studentcodemanage
+# masm studentcodemanage.asm
+# link studentcodemanage.obj
+# studentcodemanage
