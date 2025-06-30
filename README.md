@@ -13,7 +13,7 @@
 6. 各个总成绩分数段的人数的统计按照：90-100 一个分数段；80-89 一个
 分数段；60-79 一个分数段；60 以下一个分数段。
 
-##使用方法:dosbox 
+## 使用方法:dosbox 
 ### masm studentcodemanage.asm
 ### link studentcodemanage.obj
 ### studentcodemanage
